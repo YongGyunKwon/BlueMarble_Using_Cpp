@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "객체지향 프로젝트 과제", "객체지향 프로젝트 과제\객체지향 프로젝트 과제.vcxproj", "{569028DB-7B2D-456A-86F3-D50FC9621426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Debug|x64.ActiveCfg = Debug|x64
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Debug|x64.Build.0 = Debug|x64
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Debug|x86.ActiveCfg = Debug|Win32
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Debug|x86.Build.0 = Debug|Win32
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Release|x64.ActiveCfg = Release|x64
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Release|x64.Build.0 = Release|x64
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Release|x86.ActiveCfg = Release|Win32
+		{569028DB-7B2D-456A-86F3-D50FC9621426}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
